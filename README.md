@@ -27,7 +27,7 @@ The Funding range between $35,000 and $44,999 sees an increase of the successful
 
 ### Challenges and Difficulties Encountered
 
-
+My main difficulty in this assigment is the 
 
 ### Results
 
@@ -37,7 +37,7 @@ The Funding range between $35,000 and $44,999 sees an increase of the successful
 
 **What can you conclude about the Outcomes based on Goals?**
 
-Reviewing the outcomes based on goals we can determine that campaigns with goals under $5000 have higher probability of being successful in achieving funding.
+Reviewing the outcomes based on goals we can determine that campaigns with goals under $5000 have higher probability of successfully achiving funding goals.
 
 **What are some limitations of this dataset?**
 * The data shows outcomes for many countries, being that theater/plays tend to be local in scope, there is a limitation in how relevant data from markets outside the intended market is.
