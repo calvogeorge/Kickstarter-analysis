@@ -17,4 +17,3 @@ Grouping all campaigns by months we see that more campaigns are being launched i
 Looking at outcomes based on goals we can notice that campaigns for plays with a funding goal less than $5,000, have a higher percentage of successful outcomes. The percentage of successful campaigns start to progressively decrease as the funding goal increase over $5,000. Based on this pattern a campaign with a funding goal of less than $5,000 is more likely to succussed.
 The Funding range between $35,000 and $44,999 sees an increase of the successful outcomes as percentage of total projects (67%), but since the total number of projects in this range is so low, the data is not sufficient to infer the likelihood of campaigns in this range to be successful.
 
-![Plays Outcomes Based on Goals](Resources/Outcomes_vs_Goals.png)
