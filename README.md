@@ -27,7 +27,9 @@ The Funding range between $35,000 and $44,999 sees an increase of the successful
 
 ### Challenges and Difficulties Encountered
 
-My main difficulty in this assigment is the 
+My main difficulty in this assigment is has been writing the report and getting use to github. I have not use github before and I still don't have a complete grasp on how to update files and how to work in general github.
+
+Other than that the project has been layout pretty clearly and easy to follow.
 
 ### Results
 
